@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+elevenlabs
+asyncpg
+# Auth0 JWT verification (app/auth.py) — not in the original install list:
+pyjwt[crypto]

@@ -1,0 +1,5 @@
+.env
+tiger-credentials-backup.txt
+venv/
+__pycache__/
+audio/
